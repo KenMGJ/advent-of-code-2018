@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/KenMGJ/advent-of-code-2018/internal/device"
-	sets "github.com/KenMGJ/advent-of-code-2018/internal/set"
+	"github.com/KenMGJ/advent-of-code-2018/internal/sets"
 )
 
 const DAY_16_REGISTER_COUNT = 4
